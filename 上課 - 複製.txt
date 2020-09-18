@@ -1,0 +1,38 @@
+運算式  計算式
+
+2+3 html expression  標籤
+typescript  oop
+
+執行過程中產生標籤
+動態
+
+元素  標籤 成對  單一  物件成員 property method
+
+a=12;  將12 放入位址a (設定)
+
+b=a;  讀取位址a的值,放入位址b 
+
+block tag inline tag
+
+variant  變種
+
+global script block local
+
+民國109年9月8日 星期二
+binding 繫結 綁定  註冊 register
+
+href hyper refenerce
+
+queue 排隊
+
+骰子  1-6
+
+處理器  precessor
+程序
+MVC  View
+基本型函式沒有函式名稱
+
+
+
+
+
